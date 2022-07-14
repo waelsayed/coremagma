@@ -1,0 +1,13 @@
+{
+    "name": "lava/magmacore",
+    "description": "A simple framework to build web application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wael sayed",
+            "email": "waelteem@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
